@@ -1,0 +1,6 @@
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\bin\Debug\KOR.ColorConversions.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\bin\Debug\KOR.ColorConversions.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\obj\Debug\KOR.ColorConversions.csprojResolveAssemblyReference.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\obj\Debug\KOR.ColorConversions.csproj.CoreCompileInputs.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\obj\Debug\KOR.ColorConversions.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.LIBS\KOR.ColorConversions\KOR.ColorConversions\obj\Debug\KOR.ColorConversions.pdb
